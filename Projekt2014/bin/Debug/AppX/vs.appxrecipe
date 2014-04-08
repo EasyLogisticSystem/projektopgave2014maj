@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TORIANSPC</Machine>
+    <WindowsUser>Kasper</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>84f8526d-faeb-43b2-9d35-13a8a0d8ae80</PackageIdentityName>
+    <RegisteredManifestChecksum>BF1BA152A1D3653A07411BEB1EC4C9C7A5FBBD424BEE523F7CE9A75C5BA2A40A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>84f8526d-faeb-43b2-9d35-13a8a0d8ae80_1.0.0.0_neutral__7hhygd37760rc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>84f8526d-faeb-43b2-9d35-13a8a0d8ae80_7hhygd37760rc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>84f8526d-faeb-43b2-9d35-13a8a0d8ae80</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Kasper</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kasper\documents\visual studio 2013\Projects\Projekt2014\Projekt2014\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-04T09:20:56.037</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kasper\documents\visual studio 2013\Projects\Projekt2014\Projekt2014\bin\Debug\Projekt2014.exe">
+      <PackagePath>Projekt2014.exe</PackagePath>
+      <Modified>2014-04-04T09:20:55.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kasper\documents\visual studio 2013\Projects\Projekt2014\Projekt2014\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kasper\documents\visual studio 2013\Projects\Projekt2014\Projekt2014\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kasper\documents\visual studio 2013\Projects\Projekt2014\Projekt2014\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kasper\documents\visual studio 2013\Projects\Projekt2014\Projekt2014\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kasper\documents\visual studio 2013\Projects\Projekt2014\Projekt2014\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-04-01T11:10:48.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kasper\documents\visual studio 2013\Projects\Projekt2014\Projekt2014\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-04-04T07:03:40.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kasper\documents\visual studio 2013\Projects\Projekt2014\Projekt2014\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-04T09:20:55.457</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
